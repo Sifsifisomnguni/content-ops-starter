@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Protecting Your Home, One Pest at   a Time '
+      text: 'Protecting Your Home, One Pest at a Time '
       color: text-dark
       type: TitleBlock
     subtitle: ''
