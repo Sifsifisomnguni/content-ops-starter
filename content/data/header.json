@@ -74,7 +74,6 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/Siphos pest control logo.jpg",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
