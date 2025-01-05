@@ -71,16 +71,5 @@
     ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header",
-    "logo": {
-        "type": "ImageBlock",
-        "url": "/images/Siphos pest control logo.jpg",
-        "altText": "Image alt text placeholder",
-        "elementId": "",
-        "styles": {
-            "self": {
-                "borderRadius": "medium"
-            }
-        }
-    }
+    "type": "Header"
 }
