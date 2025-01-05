@@ -228,7 +228,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your busines
+      text: Our Services
       color: text-dark
       styles:
         self:
